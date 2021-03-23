@@ -12,3 +12,6 @@ _notebooks/.ipynb_checkpoints
 .netlify
 .tweet-cache
 __pycache__
+
+# Work in progress notebooks
+work_in_progress/
